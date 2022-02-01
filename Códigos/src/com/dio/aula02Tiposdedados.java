@@ -1,9 +1,12 @@
+// Instrutor: **Thiago Leite e Carvalho**
+// Github: [TLC - M√©todos](https://github.com/tlcdio)
+
 package com.dio;
 
 public class aula02Tiposdedados {
 
 	public static void main(String[] args) {
-// todos s„o inteiros, sÛ muda a cap·cidade de armazenamento.
+// todos s√£o inteiros, s√≥ muda a cap√°cidade de armazenamento.
 		byte b1 = 10;
 		byte b2 = 20;
 		
@@ -16,19 +19,19 @@ public class aula02Tiposdedados {
 		long l1 = 1000000000000000000L; // Deve se usar a letra L ao final 
 		long l2 = 2020202020202020202L;
 		
-		// float f1 = 4.5; falta o f no final, por isso da erro e o valor tambÈm n„o cabe dentro da vari·vel float.
+		// float f1 = 4.5; falta o f no final, por isso da erro e o valor tamb√©m n√£o cabe dentro da vari√°vel float.
 		float f2 = 10.68f;
 		
 		double d1 = 85.68; // pode ficar sem colocar o d o final
 		double d2 = 99.06d;
 		
-		char c1 = 'w'; // char È somente um caracter.
+		char c1 = 'w'; // char √© somente um caracter.
 		// char c2 = 'Tw';
 		char c3 = '\u0057';
 		
 		String st1 = "Fulano"; // usando aspas duplas
 		String st2 = "Cicrano";
-		String st3 = "asajshdj jhiol asjdha 123455677 &®%$#@*";
+		String st3 = "asajshdj jhiol asjdha 123455677 &¬®%$#@*";
 		
 		String dt1 = "05/08/2002";
 		
