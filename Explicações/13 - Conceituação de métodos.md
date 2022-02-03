@@ -2,7 +2,11 @@
 
 Conceituação: O que é?
 
+
+
 É uma porção de código (sub-rotina) que é disponibilizada por uma classe. Este é executado quando é feita uma requisição a ele. São responsáveis por definir e realizar um determinado comportamento.
+
+
 
 Todo método deve ser criado dentro de uma classe, ele é executado pela aquisição, deve-se chamar o método, responsável por fazer os softwares funcionar.
 
@@ -143,7 +147,7 @@ calcularTotalVenda(double precoItem1, double precoItem2, double precoItem3)
 - passagem de parâmetros: // quando a lista não está vazia
 
    
-   
+  
   - Por valor (cópia) // explorar apenas essa nesse curso
   - Por referência (endereço) //  muito haver com orientação a objeto
 
