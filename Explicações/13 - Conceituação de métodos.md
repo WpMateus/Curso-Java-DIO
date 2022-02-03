@@ -117,3 +117,11 @@ verificarSaldo(); executarTrnsferencia(...); existeDebito();
 - Deve possuir entre 80 e 120 linhas // muitas linhas ficam difíceis de entender e de manter ele, ideal é dentro desses valores
 - Evite lista de parâmetros longas // os mais curtos possíveis, quanto menos melhor, tem muito haver com orientação objetos
 - Visibilidade adequadas // sejam definidos com a visibilidade adequadas, fáceis de entender e de mante.
+
+
+
+Links de onde foi tirado as aulas de métodos:
+
+https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html
+
+https://www.casadocodigo.com.br/products/livro-oo-conceitos
